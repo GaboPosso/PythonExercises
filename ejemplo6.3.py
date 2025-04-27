@@ -1,3 +1,15 @@
+'''
+We have a dictionary in which we associate the
+ID numbers of certain people with their age.
+We want to create a program in which the user
+enters an ID number. If that number is already
+in the dictionary, it should display the age;
+otherwise, it should prompt us to enter the age,
+which we will later add to the dictionary.
+'''
+
+
+
 import pickle
 from pathlib import Path
 
